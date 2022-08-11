@@ -15,15 +15,17 @@
 
 # !git rm --cached  .ipynb_checkpoints/* 
 
-# !git commit -m "revise 5-5" 
+# !git commit -m "revise some chapters" 
 
 # !git remote rm origin 
 
-# !git remote add origin https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+# !git remote add origin git@github.com:lyhue1991/eat_tensorflow2_in_30_days.git
 
 # !git remote add gitee https://gitee.com/Python_Ai_Road/eat_tensorflow2_in_30_days
 
-# !git pull  origin master 
+# +
+# #!git pull  origin master 
+# -
 
 # !git push   origin master 
 
